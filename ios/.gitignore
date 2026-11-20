@@ -1,0 +1,13 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Firebase private credentials
+service-account*.json
+*-firebase-adminsdk-*.json
+
+# Android signing credentials
+key.properties
+*.keystore
+*.jks

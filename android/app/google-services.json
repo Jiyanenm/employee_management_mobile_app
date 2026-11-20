@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "311219397116",
+    "project_id": "employeemanagementapp-3cc5e",
+    "storage_bucket": "employeemanagementapp-3cc5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311219397116:android:9c1eab9b0c926ccfa75279",
+        "android_client_info": {
+          "package_name": "com.example.employee_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311219397116-pd9ag0k5do3ml4qvg62k9cit7c62ttib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrosn7IH9UptnVAAbdzCXPD9ex8o7xDDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311219397116-pd9ag0k5do3ml4qvg62k9cit7c62ttib.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311219397116-5p7d84fcksh0m75e4mb5n26pquq0oenl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.employeeManagementApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

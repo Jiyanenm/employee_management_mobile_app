@@ -11,3 +11,17 @@ service-account*.json
 key.properties
 *.keystore
 *.jks
+# Generated iOS Flutter files
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/ephemeral/
+
+# Xcode personal settings
+ios/Runner.xcodeproj/xcuserdata/
+ios/Runner.xcworkspace/xcuserdata/
+
+# Android local configuration
+android/local.properties
+key.properties
+*.jks
+*.keystore
